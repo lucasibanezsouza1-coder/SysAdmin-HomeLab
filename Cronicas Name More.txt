@@ -1,0 +1,58 @@
+
+📚 CRÓNICAS DE NAME MORE — VOLUMEN 1
+
+Autor: SysAdmin (Apodo: Name More, Desarrollador Principal)
+Estado del Software: Versiones de Desarrollo de Software Abierto (Beta Abierta / Privada) [11, 22]
+
+Capítulo I: El Sistema de Nomenclatura Estándar (Arquitectura)
+
+Para evitar el caos operativo que sufren muchas empresas de TI, name more impone una regla estricta de nombres basada en prefijos semánticos:
+• vxxx_CMD.bat: Scripts generales de infraestructura que utilizan el intérprete nativo de comandos de Windows (ligero, compatible).
+• vxxx_POERshll.ps1: Scripts generales avanzados basados en objetos de .NET Core (PowerShell), capaces de reconfigurar características profundas del kernel del sistema operativo.
+• botNxxxx.bat: Módulos experimentales de personalización estética y estructural del entorno de escritorio (en desarrollo y bajo cuarentena por seguridad).
+• botsJxxxx.bat: Software optimizador multimedia global, diseñado para quitar cuellos de botella de hardware (RAM/Red/GPU) que afecten a la comunidad Gamer.
+• botsYxxxx.ps1: Scripts de inyección de configuraciones de micro-nivel dedicados en exclusiva a un único cliente de juego (ej. Roblox).
+
+Capítulo II: Crónica de los Bots de Sistema (Geral)
+
+
+1. v1.0_CMD.bat & v1.1_POERshll.ps1
+
+• ¿Para qué se usan?
+Para restaurar la salud de la instalación de Windows y eliminar procesos fantasma de espionaje corporativo (telemetría de diagnóstico de Microsoft). Devuelven ciclos de reloj valiosos al procesador.
+• ¿Cómo funcionan internamente?
+	• Módulo DISM/SFC: Escanean el almacenamiento y comparan el código del sistema local con una base de datos limpia en la nube de Microsoft, reemplazando cualquier archivo corrupto al vuelo.
+	• Módulo Telemetría: Fuerza al Administrador de Control de Servicios (sc.exe / Stop-Service) a apagar y bloquear permanentemente servicios pesados como el rastreador de errores y experiencias (DiagTrack).
+• Requisitos Mínimos de Sistema:
+	• Sistema Operativo: Windows 10 Home/Pro/Enterprise o Windows 10 IoT Enterprise LTSC (Arquitectura de 64 bits recomendada).
+	• Permisos de Seguridad: Debe ejecutarse obligatoriamente bajo el token de Administrador del Sistema. De lo contrario, los comandos del Registro de Windows responderán con un código de error Acceso Denegado.
+
+Capítulo III: Crónica de los Bots Gaming (Global y Dedicado)
+
+
+1. botsJ1.0 y botsJ1.1 (Globales)
+
+• ¿Para qué se usan?
+Aumentan la tasa de cuadros por segundo (FPS) estables y eliminan los tirones de pantalla (stuttering) en entornos multijugador.
+• ¿Cómo funcionan internamente?
+	• Modifican el componente SystemProfile del Registro de Windows, cambiando la respuesta multimedia a 0 (latencia ultra baja).
+	• Desactivan el estrangulamiento de paquetes de internet (NetworkThrottlingIndex = 0xffffffff), permitiendo que tu tarjeta de red reciba toda la información del servidor de juegos de golpe.
+
+2. botsY1.0_Roblox.ps1 (Dedicado)
+
+• ¿Para qué se usa?
+Optimiza el motor gráfico de Roblox para forzarlo a funcionar más allá del límite estándar de FPS e inyectar APIs gráficas avanzadas.
+• ¿Cómo funciona internamente?
+El bot escanea los subdirectorios de la aplicación dentro de la ruta local (AppData), crea una carpeta estructural llamada ClientSettings y escribe un objeto JSON con códigos nativos del motor de Roblox. Forzar el valor PreferVulkan = True redirige las llamadas de texturas directamente a los sombreadores de hardware de la tarjeta de video, aliviando la carga del procesador.
+• Requisitos Mínimos:
+	• Roblox Player instalado a través de los ejecutables oficiales del sitio web o vía Bloxstrap (La versión de la Microsoft Store no soporta FFlags inyectadas localmente).
+
+Capítulo IV: Crónica del Asistente (Beta Privada)
+
+
+1. v2.2_ASISTENCIA.ps1
+
+• ¿Para qué se usa?
+Herramienta privada de uso exclusivo del desarrollador principal para automatizar el mantenimiento del portafolio del laboratorio.
+• ¿Cómo funciona internamente?
+A diferencia de los menús rígidos, este bot utiliza un motor de búsqueda de cadenas de texto regular (-match). Cuando el SysAdmin ingresa una orden abierta en lenguaje natural, el bot deconstruye la oración, busca coincidencias clave y, mediante el comando de generación de datos aleatorios (Get-Random), selecciona respuestas dinámicas de su biblioteca integrada para dar retroalimentación interactiva con personalidad sintética.
